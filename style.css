@@ -1,0 +1,25 @@
+.bg-image{
+    background-image: url(./images/susan-q-yin-2JIvboGLeho-unsplash.jpg);
+    background-size: cover;
+    height: 100%;
+    
+}
+h1{
+    background-color: gold;
+}
+.container{
+display: flex;
+justify-content: space-between;
+padding: 20px;
+}
+
+.each{
+    display: flex;
+    flex-direction: column;
+}
+.stoty{
+    background-color: white;
+    margin-top: 8px;
+    color: rgb(214, 98, 30);
+    font-size: 18px;
+}
